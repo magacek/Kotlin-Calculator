@@ -19,4 +19,9 @@
     <item name="button9" type="id" />
     <item name="button8" type="id" />
     <item name="button7" type="id" />
+    <item name="buttonSign" type="id" />
+    <item name="buttonLog10" type="id" />
+    <item name="buttonLn" type="id" />
+    <item name="buttonCos" type="id" />
+    <item name="buttonTan" type="id" />
 </resources>
