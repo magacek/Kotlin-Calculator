@@ -21,7 +21,9 @@ MainActivity
 
 Here's a walkthrough of implemented user stories:
 
-<img src='walkthrough.gif' title='Video Walkthrough' width='50%' alt='Video Walkthrough' />
+![updatedToRubric](https://github.com/magacek/Kotlin-Calculator/assets/70607808/0aef897a-013e-47e5-971d-1f00dd08e3a4)
+
+
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
