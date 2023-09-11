@@ -24,7 +24,7 @@
 
  Here's a walkthrough of implemented user stories:
 
- ![Screen%20Recording%202023-09-06%20at%205 01 30%20PM](https://github.com/magacek/Kotlin-Calculator/assets/70607808/029e9785-4f3a-4243-97a4-ded2eec25c7f)
+![project2](https://github.com/magacek/Kotlin-Calculator/assets/70607808/efed7305-aa17-4598-a7cd-aad44cb23a72)
 
 
  <img src='walkthrough.gif' title='Video Walkthrough' width='50%' alt='Video Walkthrough' />
