@@ -17,11 +17,9 @@ activity_main.xml
 MainActivity
 
 ## Video Walkthrough
-![Screen%20Recording%202023-08-28%20at%204 39 56%20PM](https://github.com/magacek/Kotlin-Calculator/assets/70607808/cc8741fc-55a7-4cc0-8de5-93d432766f98)
+![updatedToRubric](https://github.com/magacek/Kotlin-Calculator/assets/70607808/0aef897a-013e-47e5-971d-1f00dd08e3a4)
 
 Here's a walkthrough of implemented user stories:
-
-![updatedToRubric](https://github.com/magacek/Kotlin-Calculator/assets/70607808/0aef897a-013e-47e5-971d-1f00dd08e3a4)
 
 
 
